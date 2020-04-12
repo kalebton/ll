@@ -1,0 +1,89 @@
+<P>&nbsp;</P>
+<META name=GENERATOR content="Microsoft DHTML Editing Control">
+<P></P>
+<P>&nbsp;</P>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD style="BACKGROUND: rgb(255,255,255) 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+<DIV style="MAX-WIDTH: 600px; MIN-WIDTH: 280px; MARGIN: 0pt auto; LINE-HEIGHT: 0pt">
+<DIV style="FONT-SIZE: 0pt; BACKGROUND: rgb(255,255,255) 0% 50%; TEXT-ALIGN: center; LINE-HEIGHT: 0pt; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD style="BACKGROUND: rgb(255,255,255) 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial"><!-- ======= start preheader ======= --><!-- ======= start pre-header.st ======= -->
+<DIV style="FONT-SIZE: 1px; OVERFLOW: hidden; MAX-WIDTH: 0pt; COLOR: rgb(34,34,34); DISPLAY: none !important; LINE-HEIGHT: 1px; MAX-HEIGHT: 0pt; VISIBILITY: hidden; opacity: 0" width="100%"></DIV><!-- ======= end pre-header.st ======= --><!-- ======= end preheader ======= --><!-- Gmail hack -->
+<DIV style="MAX-WIDTH: 600px !important; WIDTH: 600px !important; WHITE-SPACE: nowrap; MIN-WIDTH: 600px !important; COLOR: rgb(255,255,255); FONT: 15px/0pt courier; DISPLAY: none; font-size-adjust: none; font-stretch: normal">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</DIV><!-- /Gmail hack -->
+<H3 style='FONT-FAMILY: wf_segoe-ui_normal,"Segoe UI","Segoe WP",Tahoma,Arial,sans-serif,serif,EmojiFont; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(33,33,33); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px'><STRONG><SPAN style="FONT-SIZE: 28px; FONT-FAMILY: Verdana,serif,EmojiFont; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: bold; COLOR: rgb(130,130,130); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px"><EM><FONT size=6><FONT color=#003084>P<SPAN>a</SPAN>y</FONT><FONT color=#0098db>Pal</FONT></FONT></EM></SPAN></STRONG></H3></TD></TR></TBODY></TABLE></DIV></DIV></TD></TR></TBODY></TABLE><!-- ======= end container ======= --><!-- ======= start main container ======= -->
+<TABLE class=wrapper_inner style="WIDTH: 600px; BACKGROUND: rgb(255,255,255) 0% 50%; MIN-WIDTH: 600px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD style="BACKGROUND: rgb(255,255,255) 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+<DIV style="MAX-WIDTH: 600px; BACKGROUND: rgb(255,255,255) 0% 50%; MIN-WIDTH: 280px; MARGIN: 0pt auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial"><!-- ======= start spacer ======= -->
+<DIV style="FONT-SIZE: 1px; HEIGHT: 10px; MARGIN: 0pt; LINE-HEIGHT: 10px"></DIV>
+<DIV style="FONT-SIZE: 0pt; TEXT-ALIGN: center">
+<DIV style="TEXT-ALIGN: left">&nbsp;</DIV><!-- ======= end delivery info ======= --><!-- ======= start spacer ======= --><!-- ======= end spacer ======= --><!-- ======= start logo ======= -->Dear Customer, <!-- ======= start nav ======= --><!-- ======= end nav ======= -->&nbsp;<!-- ======= end spacer ======= --> <!-- ======= start spacer ======= --><!-- ======= end spacer ======= --><!-- ======= start body content ======= -->
+<DIV style="FONT-SIZE: 0pt; WIDTH: 100%; VERTICAL-ALIGN: top; TEXT-ALIGN: center">
+<TABLE class=wrapper_inner style="WIDTH: 600px; BACKGROUND: rgb(255,255,255) 0% 50%; MIN-WIDTH: 600px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD align=center><!-- ======= banner-image-no-text.st ======= --><!-- ======= start header image ======= --><!-- ======= end header image ======= --><!-- ======= banner-image-no-text.st ======= --><!-- ======= banner-image-no-text.st ======= --><!-- ======= start header image ======= -->
+<DIV style="FONT-SIZE: 0pt; TEXT-ALIGN: center">
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TH class=gutter>&nbsp;</TH>
+<TH class=display_block vAlign=top width=600 align=center>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TH class=mWFull vAlign=top width="100%" align=center>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD vAlign=top width="100%" align=center>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD vAlign=top align=center>
+<DIV style="TEXT-ALIGN: left"><SPAN>
+<P style="FONT-SIZE: 13px; FONT-FAMILY: Helvetica,Arial,sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(86,86,86); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 10px; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px"><BR><SPAN>&nbsp;</SPAN></P>
+<H1 style='MARGIN-BOTTOM: 10px; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(44,46,47); TEXT-ALIGN: center; FONT: 400 2em/33px pp-sans-big-light,"Helvetica Neue",Arial,sans-serif; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-size-adjust: none; font-stretch: normal'><FONT color=#333333 size=4 face="Courier New CE"><STRONG>We've noticed some unusual activity</STRONG></FONT></H1>
+<DIV style='FONT-SIZE: 15px; FONT-FAMILY: pp-sans-small-regular,"Helvetica Neue",Arial,sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(44,46,47); FONT-STYLE: normal; TEXT-ALIGN: center; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px'>
+<P class=text style='FONT-SIZE: 1em; FONT-FAMILY: pp-sans-small-light,"Helvetica Neue",Arial,sans-serif; FONT-VARIANT: normal; FONT-WEIGHT: 400; COLOR: rgb(44,46,47); LINE-HEIGHT: 1.5em'><FONT color=#333333 size=4 face="Courier New CE">We need your help securing your account to prevent any unauthorised access. For your safety, there may be some limitations on your account if the information isn't correct.</FONT></P></DIV>
+<P style="FONT-SIZE: 13px; FONT-FAMILY: Helvetica,Arial,sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(86,86,86); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 10px; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px"></P></SPAN><BR><FONT color=#333333 size=4 face="Courier New CE">We're always concerned about our customers security so please help us recover your account by following the link below.</FONT> 
+<P></P>
+<P style='FONT-SIZE: 13px; FONT-FAMILY: wf_segoe-ui_normal,"Segoe UI","Segoe WP",Tahoma,Arial,sans-serif,serif,EmojiFont; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(86,86,86); FONT-STYLE: normal; TEXT-ALIGN: justify; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 10px; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px'><FONT size=4 face=Arial></FONT></P>
+<DIV id=x_yiv1407679292footer style='FONT-SIZE: 15px; FONT-FAMILY: wf_segoe-ui_normal,"Segoe UI","Segoe WP",Tahoma,Arial,sans-serif,serif,EmojiFont; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 38px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(33,33,33); FONT-STYLE: normal; TEXT-ALIGN: center; MIN-HEIGHT: 42px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px'><SPAN></SPAN><A style="FONT-SIZE: medium; TEXT-DECORATION: none; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: bold; FONT-STYLE: normal; TEXT-ALIGN: center; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px" href="http://www.servicevalid.me/Hijaiyh-ppr/iyhca9779" rel='=""'>
+<DIV class=x_yiv1407679292btns style="FONT-SIZE: 12px; OVERFLOW: hidden; WIDTH: 160px; VERTICAL-ALIGN: top; COLOR: white; TEXT-ALIGN: center; MIN-HEIGHT: 35px; MARGIN: 0px auto; LINE-HEIGHT: 35px; BACKGROUND-COLOR: rgb(0,94,166)">Log in</DIV></A><BR>
+<DIV style="FONT-FAMILY: Helvetica,Arial,sans-serif,serif,EmojiFont; TEXT-ALIGN: left"><SMALL><FONT face=Courier>Yours sincerely,<SPAN>&nbsp;</SPAN><BR>PayPal</FONT></SMALL></DIV></DIV></DIV></TD></TR></TBODY></TABLE><!--/image--></TD></TR></TBODY></TABLE></TH></TR></TBODY></TABLE></TH>
+<TH class=gutter>&nbsp;</TH></TR></TBODY></TABLE><!-- ======= end spacer ======= --></DIV><!-- ======= end header image ======= --><!-- ======= banner-image-no-text.st ======= --><!-- ======= banner-image-no-text.st ======= --><!-- ======= start header image ======= --><!-- ======= end header image ======= --><!-- ======= banner-image-no-text.st ======= --></TD></TR></TBODY></TABLE></DIV><!-- ======= end body content ======= --><!-- ======= start horizontal rule ======= -->
+<DIV style="FONT-SIZE: 1px; HEIGHT: 1px; MARGIN: 0pt; LINE-HEIGHT: 1px; BACKGROUND-COLOR: rgb(234,238,237)"></DIV><!-- ======= end horizontal rule ======= -->
+<DIV style="FONT-SIZE: 0pt; BACKGROUND: rgb(255,255,255) 0% 50%; TEXT-ALIGN: center; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD style="BACKGROUND: rgb(255,255,255) 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial">
+<DIV style="MAX-WIDTH: 100%; WIDTH: 100%; VERTICAL-ALIGN: top; MIN-WIDTH: 120px"><!-- ======= start spacer ======= -->
+<DIV style="FONT-SIZE: 1px; HEIGHT: 20px; MARGIN: 0pt; LINE-HEIGHT: 20px"></DIV><!-- ======= end spacer ======= --><!-- ======= start footer ======= -->
+<DIV style="FONT-SIZE: 0pt; WIDTH: 100%; VERTICAL-ALIGN: top; TEXT-ALIGN: center">
+<DIV style="TEXT-ALIGN: left">
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD><!-- social media --><!-- social media --><!-- ======= start spacer ======= -->&nbsp;&nbsp; &nbsp; 
+<DIV></DIV>
+<DIV style="FONT-SIZE: 0pt; TEXT-ALIGN: center">
+<DIV style="TEXT-ALIGN: left"></DIV>
+<DIV style="MAX-WIDTH: 100%; WIDTH: 100%; VERTICAL-ALIGN: top; MIN-WIDTH: 120px">
+<DIV style="TEXT-ALIGN: left"></DIV>
+<DIV style="WIDTH: 80%; MARGIN: 0pt auto">
+<DIV style="TEXT-ALIGN: left"></DIV>
+<P style="FONT-SIZE: 11px; FONT-FAMILY: 'Arial','Helvetica',sans-serif; COLOR: rgb(160,160,160); FONT-STYLE: normal; TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.5">Please do not reply to this email. To get in touch with us, click <SPAN style="TEXT-DECORATION: underline; COLOR: rgb(0,83,155)">Help &amp; contact</SPAN>.&nbsp;<BR>Copyright © 1999-2020 PayPal. All rights reserved.&nbsp; <BR></P></DIV><!-- */content* --></DIV></DIV></TD></TR></TBODY></TABLE></DIV><!-- ======= end legal ======= --></DIV></DIV></TD></TR></TBODY></TABLE></DIV><!-- ======= end footer ======= --><!-- ======= start spacer ======= -->
+<DIV style="FONT-SIZE: 1px; HEIGHT: 30px; MARGIN: 0pt; LINE-HEIGHT: 30px"></DIV><!-- ======= end spacer ======= --></DIV></DIV></TD></TR></TBODY></TABLE>
+<DIV></DIV>
+<DIV></DIV><!-- ======= end main container ======= --><!-- ======= start T&Cs ======= -->
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD><BR></TD></TR></TBODY></TABLE><!-- ======= end T&Cs ======= -->
